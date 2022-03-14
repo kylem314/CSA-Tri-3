@@ -1,3 +1,5 @@
 {% include navigation.html %}
 
-data structures work
+[Repl Link](https://replit.com/@KyleMyint/CSA-Tri-3#Main.java)
+
+Java
