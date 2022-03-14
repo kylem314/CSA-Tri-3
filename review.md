@@ -2,9 +2,6 @@
 
 # Reviews linked below
 
-</br>
-</br>
-
 ## Week 1 Review Ticket
 - Score: 4.5/5
 - Graded By: Ak P
