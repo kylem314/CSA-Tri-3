@@ -3,7 +3,7 @@
 # Reviews (Reverse chronological)
 
 ## Week 1 Review
-- Score: x/5
+- Score: 4.23/5
 - Graded By: Ak P
 - [Ticket](https://github.com/kylem314/CSA-Tri-3/issues/1)
 - Resources graded
