@@ -2,7 +2,7 @@
 
 [Repl Link](https://replit.com/@KyleMyint/CSA-Tri-3#Menu.java)
 
-## Week 2 Assignment
+## Week 1 Assignment
 - [Link to code](https://replit.com/@KyleMyint/CSA-Tri-3#Queue.java)
   - Linked Lists/Java Generic T
     - Describe in notes!!!
@@ -13,7 +13,7 @@
   - Build Stack and Reverse Queue Order [LINK CODE HERE](url)
     - Give example and comment, isn't working properly
 
-## Week 1 Assignment
+## Week 0 Assignment
 
 - [Link to code](https://replit.com/@KyleMyint/CSA-Tri-3#Menu.java)
   - Menu created, using a hashmap
