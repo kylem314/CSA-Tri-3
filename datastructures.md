@@ -1,11 +1,13 @@
 {% include navigation.html %}
 
-[Repl Link](https://replit.com/@KyleMyint/CSA-Tri-3#Menu.java)
+Note: Repl down when putting together this section, will check if working after school & should be done by 6 pm
+
+[Repl Link](https://replit.com/@KyleMynt/CSA-3#Menu.java)
 
 ## Week 1 Assignment
-- [Link to code](https://replit.com/@KyleMyint/CSA-Tri-3#Queue.java)
+- [Link to code](https://replit.com/@KyleMynt/CSA-3#Queue.java)
   - Linked Lists/Java Generic T
-    - Describe in notes!!!
+    - Code snippet and notes
   - Queue Add and Delete [LINK CODE HERE](url)
     - Give running example and comment
   - Merge 2 Queues [LINK CODE HERE](url)
@@ -15,7 +17,7 @@
 
 ## Week 0 Assignment
 
-- [Link to code](https://replit.com/@KyleMyint/CSA-Tri-3#Menu.java)
+- [Link to code](https://replit.com/@KyleMynt/CSA-3#Menu.java)
   - Menu created, using a hashmap
     - Works like a dictionary, and allows for different classes to be run from menu
     - ![image](https://user-images.githubusercontent.com/55672662/159310796-c508cf18-d3be-4034-8f01-45b7441b8851.png)
