@@ -1,19 +1,8 @@
 {% include navigation.html %}
 
-Note: Repl down when putting together this section, will check if working after school & should be done by 6 pm
-
 [Repl Link](https://replit.com/@KyleMynt/CSA-3#Menu.java)
 
-## Week 1 Assignment
-- [Link to code](https://replit.com/@KyleMynt/CSA-3#Queue.java)
-  - Linked Lists/Java Generic T
-    - Code snippet and notes
-  - Queue Add and Delete [LINK CODE HERE](url)
-    - Give running example and comment
-  - Merge 2 Queues [LINK CODE HERE](url)
-    - Give running example and comment
-  - Build Stack and Reverse Queue Order [LINK CODE HERE](url)
-    - Give example and comment, isn't working properly
+
 
 ## Week 0 Assignment
 
