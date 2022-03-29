@@ -2,7 +2,10 @@
 
 [Repl Link](https://replit.com/@KyleMynt/CSA-3#Menu.java)
 
+## Week 2 Assignment (Calculator)
 
+- [Link to code](https://replit.com/@KyleMyint/CSA-Tri-3#Calculator.java)
+  - 
 
 ## Week 0 Assignment
 
