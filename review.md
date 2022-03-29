@@ -2,7 +2,7 @@
 
 # Reviews (Reverse chronological)
 
-## Week 3 Review
+## Week 2 Review
 - Score: 4.75/5
 - Graded By: Ak P
 - [Ticket](https://github.com/kylem314/btbw/issues/11#issuecomment-1082210341)
