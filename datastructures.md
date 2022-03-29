@@ -5,7 +5,14 @@
 ## Week 2 Assignment (Calculator)
 
 - [Link to code](https://replit.com/@KyleMyint/CSA-Tri-3#Calculator.java)
-  - 
+  - Preliminary definitions
+    - Operations created using a hashmap, associated with their precedence
+    - ![image](https://user-images.githubusercontent.com/55672662/160678977-57a838ef-d48d-46c3-89a4-23c08a5991e0.png)
+  - Output
+    - Original, RPN, and calculator
+    - ![image](https://user-images.githubusercontent.com/55672662/160679216-6104727e-55a0-4a92-9c1b-732228edb73a.png)
+
+
 
 ## Week 0 Assignment
 
