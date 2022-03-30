@@ -6,8 +6,10 @@
 
 - [Link to code](https://replit.com/@KyleMyint/CSA-Tri-3#Calculator.java) (Worked with Kevin Do)
   - Preliminary definitions
-    - Operations created using a hashmap, associated with their precedence
+    - Operations created using a hashmap, associated with their precedence (lower precedence is executed first)
     - ![image](https://user-images.githubusercontent.com/55672662/160678977-57a838ef-d48d-46c3-89a4-23c08a5991e0.png)
+    - Square root function added 
+    - ![image](https://user-images.githubusercontent.com/55672662/160888338-344dcda0-2431-4906-a5ef-49bea25c5700.png)
   - Output
     - Original, RPN, and calculator
     - ![image](https://user-images.githubusercontent.com/55672662/160679216-6104727e-55a0-4a92-9c1b-732228edb73a.png)
