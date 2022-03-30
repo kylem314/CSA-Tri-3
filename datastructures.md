@@ -5,6 +5,7 @@
 ## Week 2 Assignment (Calculator)
 
 - [Link to code](https://replit.com/@KyleMyint/CSA-Tri-3#Calculator.java) (Worked with Kevin Do)
+- Note: Code isn't working on main repo, running [here](https://replit.com/@KyleMyint/DearDearestRar#.replit) though
   - Preliminary definitions
     - Operations created using a hashmap, associated with their precedence (lower precedence is executed first)
     - ![image](https://user-images.githubusercontent.com/55672662/160678977-57a838ef-d48d-46c3-89a4-23c08a5991e0.png)
