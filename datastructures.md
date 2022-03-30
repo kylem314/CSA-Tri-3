@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-[Repl Link](https://replit.com/@KyleMynt/CSA-3#Menu.java)
+[Repl Link](https://replit.com/@KyleMyint/CSA-Tri-3#Menu.java)
 
 ## Week 2 Assignment (Calculator)
 
