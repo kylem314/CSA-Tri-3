@@ -1,8 +1,8 @@
 compile = "javac -classpath .:target/dependency/* -d . $(find . -type f -name '*.java')"
-# run = ["java", "-classpath", ".:target/dependency/*", "Main"]
-run = "java src/Menu; rm src/*.class"
+run = ["java", "-classpath", ".:target/dependency/*", "Menu"]
+#run = "java src/Menu; rm src/*.class"
 
-entrypoint = "Main.java"
+entrypoint = "Menu.java"
 hidden = ["**/*.class"]
 
 [packager]
