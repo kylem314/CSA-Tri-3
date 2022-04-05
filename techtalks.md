@@ -1,5 +1,20 @@
 {% include navigation.html %}
 
+### Tech Talk 3: Sorts
+
+- 4 types of sorts; Bubble, Insertion, Selection, and Merge
+  - Bubble Sort
+    - Iterate through dataset, comparing and switching 2 adjacent entries until full set is sorted
+  - Insertion
+    - Iterate through dataset, taking each entry and inserting it into the proper position in an output structure
+  - Selection
+    - Search through the dataset for the element belonging in the next position and put it at the beginning
+  - Merge
+    - Break down the original dataset and sort subsets, then merge subsets together for final list
+- Run to find speed and big O complexity of each algorithm to find most efficient
+  - Run sort on dataset of 5000 entries 12 times, find average time of middle 10
+
+
 ### Tech Talk 2: Calculator
 
 - Using Reverse Polish Notation
