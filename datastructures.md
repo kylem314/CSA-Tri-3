@@ -2,6 +2,33 @@
 
 [Repl Link](https://replit.com/@KyleMyint/CSA-Tri-3#Menu.java)
 
+## Week 3 Assignment (Sorts)
+- [Link to code](https://replit.com/@KyleMyint/CSA-Tri-3#Sort.java)
+- Same as last week, isolated repl [here](https://replit.com/@KyleMyint/Sort-test#Sorts.java)
+  - Bubble Sort
+    - This sorting method will go through the data, comparing 2 adjacent entries and rearranging them if necessary
+    - It will repeat this process until the full dataset is sorted
+    - ![image](https://user-images.githubusercontent.com/55672662/161813547-694ecdb9-cbb5-4dc5-a05d-2a775e3dfe66.png)
+  - Insertion Sort
+    - This method iterates through the dataset, and for each iteration, finds one entry
+    - It will then insert that entry into an output list where it belongs in the sorted order
+    - ![image](https://user-images.githubusercontent.com/55672662/161813734-1ed172f1-6a48-40d2-8671-312052dc170a.png)
+  - Merge Sort
+    - This method splits up the data into multiple subsets
+    - It will then sort each subset, which would be faster since fewer elements are being checked
+    - It then puts together the sorted subsets to create the final sorted dataset
+    - ![image](https://user-images.githubusercontent.com/55672662/161813948-7f893469-f2ad-4f66-bacd-b9e20daacc0b.png)
+    - ![image](https://user-images.githubusercontent.com/55672662/161814019-c224a70a-6dc8-441f-bf4d-3a0e702ac49c.png)
+  - Big O Complexity
+    - Bubble sort: O(n^2)
+    - Insertion sort: O(n^2)
+    - Merge Sort: O(n log(n))
+    - Merge sort is the most efficient sorting method of these for large datasets
+
+
+
+
+
 ## Week 2 Assignment (Calculator)
 
 - [Link to code](https://replit.com/@KyleMyint/CSA-Tri-3#Calculator.java) (Worked with Kevin Do)
