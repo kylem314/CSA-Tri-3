@@ -2,6 +2,14 @@
 
 # Reviews (Reverse chronological)
 
+## Week 3 Review
+- Score: 85%
+- Graded By: Eric W
+- [Ticket](https://github.com/kylem314/CSA-Tri-3/issues/2)
+- Resources Graded
+  - [Repl (Sorts)](https://replit.com/@KyleMyint/CSA-Tri-3#Sort.java)
+  - [GH Pages documentation of sorts](https://kylem314.github.io/CSA-Tri-3/datastructures)
+
 ## Week 2 Review
 - Score: 4/5
 - Graded By: Ak P
