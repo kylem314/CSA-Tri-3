@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
+
 // Creating a menu
 public class Menu {
     // Hashmap = dictionary for menu; option, row
@@ -84,7 +85,7 @@ class Driver {
                 new MenuRow("Quit", () -> main(null)),
                 new MenuRow("(W0) Number Swapper", () -> NumberSwapper.main(null)),
                 new MenuRow("(W1) Matrix", () -> Matrix.main(null)),
-                new MenuRow("(W2) Queue", () -> QueueTester.main(null)),
+                //new MenuRow("(W2) Queue", () -> QueueTester.main(null)),
                 new MenuRow("(W3) Calculator", () -> Calculator.main(null)),
                 new MenuRow("(W4) Sort", () -> Sort.main(null))
         };
