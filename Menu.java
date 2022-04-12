@@ -3,8 +3,6 @@ import java.util.Scanner;
 import java.util.HashMap;
 import java.util.Map;
 
-// Hello
-
 // Creating a menu
 public class Menu {
     // Hashmap = dictionary for menu; option, row
