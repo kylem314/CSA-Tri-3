@@ -24,6 +24,15 @@
     - Insertion sort: O(n^2)
     - Merge Sort: O(n log(n))
     - Merge sort is the most efficient sorting method of these for large datasets
+  - Data
+    - Bubble sort
+    - ![image](https://user-images.githubusercontent.com/55672662/162855619-d4b0234f-635d-4233-8669-5b3cd355a71e.png)
+    - Insertion sort
+    - ![image](https://user-images.githubusercontent.com/55672662/162855700-899d66a2-3a8f-4540-8a52-98df50232731.png)
+    - Merge sort
+    - ![image](https://user-images.githubusercontent.com/55672662/162855741-4d25ad39-7a6c-45ce-a226-cfa6a19be916.png)
+
+
 
 
 
