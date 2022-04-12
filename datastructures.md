@@ -30,7 +30,7 @@
     - Insertion sort
     - ![image](https://user-images.githubusercontent.com/55672662/162855700-899d66a2-3a8f-4540-8a52-98df50232731.png)
     - Merge sort
-    - ![image](https://user-images.githubusercontent.com/55672662/162855741-4d25ad39-7a6c-45ce-a226-cfa6a19be916.png)
+    - ![image](https://user-images.githubusercontent.com/55672662/162860254-f1e1abe5-c1b7-44d0-8aa3-caeb7e2a649a.png)
 
 
 
