@@ -3,7 +3,6 @@ import java.util.Scanner;
 import java.util.HashMap;
 import java.util.Map;
 
-// test github
 
 // Creating a menu
 public class Menu {
