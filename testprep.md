@@ -6,7 +6,12 @@
 
 [Notes on CB Videos](https://docs.google.com/document/d/1EKNbZsHvQ8kusJU4IEqVrw9UcIpYzHaJNNrBwNbfsPo/edit?usp=sharing)
 
-[Plan for studying](https://docs.google.com/document/d/1kZC8lV6chwsWiojjn97RJwg2PzJDCukfUQWWPNPf3HY/edit?usp=sharing)
+## Study Plan
+AP Test Study Plan
+
+In order to best prepare for the upcoming AP exam, I’ll first use the practice tests in class and what I already know to find out which subjects I struggle the most with and need to study.  I’ll then watch the college board videos and take notes on them, with extra attention to the previously mentioned subjects.
+
+Once I’ve finished taking notes on the videos, I’ll do extra practice tests and questions on top of the ones we do in class, found [here](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam/past-exam-questions).  This will reinforce the learning and allow me to find any other topics I need to look back over.
 
 ## Notes
 
