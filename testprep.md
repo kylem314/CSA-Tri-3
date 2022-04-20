@@ -12,6 +12,8 @@ In order to best prepare for the upcoming AP exam, I’ll first use the practice
 
 Once I’ve finished taking notes on the videos, I’ll do extra practice tests and questions on top of the ones we do in class, found [here](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam/past-exam-questions).  This will reinforce the learning and allow me to find any other topics I need to look back over.
 
+Finally, I'll retake old FRQs on units I feel more comfortable with to ensure I still know the material and try to incorporate things from other units.
+
 ## Week 1 
 
 Day | Goal |
