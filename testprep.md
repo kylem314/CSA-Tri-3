@@ -14,7 +14,7 @@ Once I’ve finished taking notes on the videos, I’ll do extra practice tests 
 
 Finally, I'll retake old FRQs on units I feel more comfortable with to ensure I still know the material and try to incorporate things from other units.
 
-## Week 1 
+## Week 1 (4/18 - 4/22)
 
 Day | Goal |
 --- | --- |
@@ -24,6 +24,17 @@ Wednesday | Review MC test (test corrections on questions I'm confused about), w
 Thursday | Take FRQ test in class, finish taking notes on anything I'm struggling with, watch AP daily
 Friday | Review FRQ test (notes on learnings and what I could do better), watch AP daily
 Weekend | Review all notes and use practice FRQs over the weekend to study
+
+## Week 2 (4/25 - 4/29)
+
+Day | Goal |
+--- | --- |
+Monday | X
+Tuesday | X
+Wednesday | X
+Thursday | X
+Friday | X
+Weekend | X
 
 ## Notes
 
