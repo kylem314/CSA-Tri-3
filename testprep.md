@@ -57,7 +57,7 @@ Weekend | Review all notes and use practice FRQs over the weekend to study
 ### MCQ 2015
 - Overall Score
   - ![image](https://user-images.githubusercontent.com/55672662/164757138-34bbdc4e-88de-412d-ac10-9f3e0ae33fd3.png)
-  - I finished all the questions except for 26 and 27, so out of the questions I completed, I scored 34/37
+  - I finished all the questions except for 27 which I skipped and didn't have time to go back to, so out of the questions I completed, I scored 35/38
 - Missed Questions: 31, 35, 37
   - Question 31
     - ![image](https://user-images.githubusercontent.com/55672662/164757518-1520d131-074a-4d33-952e-224c9b32fc79.png)
