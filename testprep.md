@@ -78,6 +78,7 @@ Weekend | Review all notes and use practice FRQs over the weekend to study
 
 ### FRQ 2015
 
+- [Repl with FRQs](https://replit.com/@KyleMyint/CSA-Tri-3#FRQ%202015/FRQ1.java)
 - Question 1
   - ![image](https://user-images.githubusercontent.com/55672662/164756540-bac36b5a-cc70-44f5-8e1a-03fe86ab5baf.png)
 - Question 2
