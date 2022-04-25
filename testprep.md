@@ -29,12 +29,12 @@ Weekend | Review all notes and use practice FRQs over the weekend to study
 
 Day | Goal |
 --- | --- |
-Monday | X
-Tuesday | X
-Wednesday | X
-Thursday | X
-Friday | X
-Weekend | X
+Monday | Put together study plan, watch AP daily video
+Tuesday | Take MC test in class, work on finishing notes on units, watch AP daily video
+Wednesday | Review MC test including test corrections, work on finishing notes on units watch AP daily video
+Thursday | Take FRQ test in class, finish taking notes, watch AP daily video
+Friday | Review FRQ test including notes on learnings and changes to make, put FRQs on repl, watch AP daily video
+Weekend | Review/complete notes and study with practice MC's and FRQ's
 
 ## Notes
 
