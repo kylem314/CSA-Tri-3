@@ -92,9 +92,33 @@ Weekend | Review/complete notes and study with practice MC's and FRQ's
 - [Repl with FRQs](https://replit.com/@KyleMyint/CSA-Tri-3#FRQ%202015/FRQ1.java)
 - Question 1
   - ![image](https://user-images.githubusercontent.com/55672662/164756540-bac36b5a-cc70-44f5-8e1a-03fe86ab5baf.png)
+  - This FRQ forcused on traversing arrays and 2d arrays while completing tasks such as checking values and finding totals
+  - Part A
+    - This question involved traversing an array and adding each value, returning their sum
+    - To solve this, I used an enhanced for loop for each value in the array and added the value to the total for each entry
+  - Part B
+    - This question used a 2d array and needed to find the sum of each row, returning an array with the sums
+    - I once again used an enhanced for loop and ran the method from part A, arraySum, on each row
+    - I then added each rows sum to a new array
+    - Because you can't ad things to arrays, my solution didn't work. I should instead make a new array with a set length of the number of rows in the 2d array, and then change the value at each index
+  - Part C
+    - This question looked at a 2d array and checked if it was diverse; there weren't any rows with the same sum as another row
+    - I created a 2d array 'totals' by running the previous method rowSums
+    - I then checked each value with the others using a temporary array
+    - Similar to part B, my solution didn't work because you can't add or delete entries from arrays. A similar solution would have worked
 - Question 2
   - ![image](https://user-images.githubusercontent.com/55672662/164756611-d652af56-24a9-4b33-8321-d12813ce9fcc.png)
+  - Part A
+    - This question worked similarly to wordle, with a user guessing a word and getting a hint based on if the letter was in the right place, wrong place, or wasn't in the word
+    - I used an enhanced for loop to check each letter in their guess, and then a series of if else statements to create the hint to return
+    - Logic could be improved/optimized, but solution works
 - Question 3
   - ![image](https://user-images.githubusercontent.com/55672662/164756676-24fd86a8-0698-4256-8e87-20138753dfac.png)
-
+  - Part A
+    - This question looked at a 2d array with mostly blank entries (a sparse array) and wanted to find a value given a row and column
+    - By using the getter methods provided in the problem, I mathched the given coordinates with the ones in the array and returned the vlaue
+  - Part B
+    - This question asked to remove a column from an array, deleting its contents, and then shifting the rest of the columns to fill in the array
+    - I used an enhanced for loop to go through each column of the sparse array, and then removed the one matching the given column
+    - I also checked if the column was to the right of the given column, and if so, I moved it to the left 1 column
 
