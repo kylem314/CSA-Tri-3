@@ -38,14 +38,6 @@ Weekend | Review/complete notes and study with practice MC's and FRQ's
 
 ## Notes
 
-### Unit 1
-
-### Unit 2
-
-### Unit 3
-
-### Unit 4
-
 ### Unit 5
 [Notes](https://docs.google.com/document/d/1EKNbZsHvQ8kusJU4IEqVrw9UcIpYzHaJNNrBwNbfsPo/edit#bookmark=kix.yfu1i6mbbfa)
 
@@ -55,8 +47,6 @@ Weekend | Review/complete notes and study with practice MC's and FRQ's
 ### Unit 7
 [Notes](https://docs.google.com/document/d/1EKNbZsHvQ8kusJU4IEqVrw9UcIpYzHaJNNrBwNbfsPo/edit#bookmark=kix.43crj9n7u9tf)
 
-### Unit 8
-
 ### Unit 9
 [Notes](https://docs.google.com/document/d/1EKNbZsHvQ8kusJU4IEqVrw9UcIpYzHaJNNrBwNbfsPo/edit#bookmark=kix.qqmf9ccnn9kg)
 
@@ -64,6 +54,34 @@ Weekend | Review/complete notes and study with practice MC's and FRQ's
 [Notes](https://docs.google.com/document/d/1EKNbZsHvQ8kusJU4IEqVrw9UcIpYzHaJNNrBwNbfsPo/edit#bookmark=kix.2suyp1nruvq7)
 
 ## Test Review
+
+### MCQ 2020
+- Overall Score
+  - ![image](https://user-images.githubusercontent.com/55672662/166507278-8399b4e8-2263-4952-8a24-30e3a50b766f.png)
+  - I completed the full test within the time limit, though rushed a bit to do so leading to lower accuracy
+- Questions to review: 5, 6, 14
+  - Question 5
+    - ![image](https://user-images.githubusercontent.com/55672662/166508507-677e67e9-9243-46f1-a79f-a127b4ae5a13.png)
+    - I answered D, the correct answer was E
+    - I thought we wouldn't be able to make a constructor with boolean, string, string. However, this wouldn't cause an error - I don't know why I selected it
+    - The correct answer was the constructor with arguments string, string, boolean - this wouldn't work since there's already a constructor with the same arguments.
+  - Question 6
+    - ![image](https://user-images.githubusercontent.com/55672662/166508998-d0635db1-5873-457e-9c9d-5d2980479f86.png)
+    - I answered E (I, II, and III) though the correct answer was A (Just I)
+    - When mentally evaluating each option, I thought they would all equate to 3.5 because the double operator would make the division double division in all of them
+    - However, because of the parentheses in options II and III, they would evaluate with integer divison before the double operator was applied
+    - This would result in an output of 3.0 in both options II and III, so they would be incorrect
+  - Question 14
+    - ![image](https://user-images.githubusercontent.com/55672662/166509405-ba9798d5-adbf-44a1-a7c9-fff1cf772bf9.png)
+    - ![image](https://user-images.githubusercontent.com/55672662/166509746-8c2d55e4-6cb7-4c9e-8050-27cbd7dcffb5.png)
+    - I answered A (I only) though the answer was E (I and III)
+    - When answering the question, I thought III wouldn't work, since even if one of the conditions was fulfilled, it would keep going on and potentially trigger multiple returns
+    - I forgot that when a value is returned, the code will exit the function
+    - This would mean that option III would work, as it would only return the correct value and then end the process
+
+### FRQ 2020
+
+
 
 ### MCQ 2015
 - Overall Score
