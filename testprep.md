@@ -81,6 +81,56 @@ Weekend | Review/complete notes and study with practice MC's and FRQ's
 
 ### FRQ 2020
 
+- [Repl with FRQs](https://replit.com/@KyleMyint/CSA-Tri-3#FRQ%202020/ReviewCollector.java]
+- Question 1
+  - ![image](https://user-images.githubusercontent.com/55672662/166721332-45cf4a6e-dbd2-4871-8cd5-6586a30c0d83.png)
+
+  - Part A 
+    - This part asked to create a method hailstoneLength which would take in an integer N and then divide by 2 if it was even or multiply by 3 and add 1 if it was odd
+    - It would count the number of operations it had to do and then return that as count
+    - I think I did this accurately - it was a fairly simple method involving a while loop and if else statement
+  - Part B 
+    - This part wanted to check if the number of operations taken was larger than the number n itself and return a boolean
+    - This was even simpler, and I did it in one line, returning the boolean comparing n to its hailstoneLength (using the method in part A)
+  - Part C
+    - This part asked to return the proportion of long sequences in a range of numbers from 1 to n
+    - To do this, I created a for loop from 1 to n and then ran isLongSeq from part B on every number
+    - This would accumulate the number of long sequences in the range
+    - I then returned that number divided by n to get the proportion
+  - Overall
+    - This question wasn't too hard, just creating simple methods to accomplish tasks
+
+- Question 2
+  - ![image](https://user-images.githubusercontent.com/55672662/166721789-9ff9174c-01d5-4dd7-8909-30acabfbda27.png)
+  - Q2 (Whole question was 1 part)
+    - This question asked us to create a class GameSpinner with a constructor to create a spinner with a certain number of sections as well as a spin feature and a feature to see how many results in a row were the same
+    - For the constructor, I only took in 1 argument-  the number of sections
+    - I then set sections equal to that, run to 0, and current to 0
+    - For the spin method, I just randomized a value between 1 and the number of sections
+    - If the value was equal to current, it would add 1 to the current run
+    - Otherwise, it would change current and reset the run count
+    - Finally, it would return the spun value
+    - Current Run would simply return the variable run, since it was being modified in the spin method
+  - Overall
+    - I didn't have much trouble with this question, though one thing I found problematic was when I forgot to do something (ex. create instance varianble)
+    - This was problematic because I'd have to erase multiple lines or try to squeeze it in
+    - I can fix this by leaving extra lines when physically writing code, or just thinking about everything I'd need before starting so I don't miss anything
+
+- Question 3
+  - ![image](https://user-images.githubusercontent.com/55672662/166723201-b92d1443-53cc-49e8-8f66-90ea35c54160.png)
+  - Part A
+    - This question involved array lists, and wanted us to add a product review to reviewList
+    - In addition, if not already there, we were to add the product to productList as well
+    - This part wasn't too hard, since it was just checking the array list .add method, as well as using a getter for an if statement
+  - Part B
+    - This part had us count the number of good reviews for a product
+    - I used a for loop to iterate through every review in reviewList, and then checked if the name was equal and if it contained the string 'best'
+    - I could have improved what I did in this part by combining the 2 if statements into 1 longer one using an & operator
+  - Overall
+    - This question took me a bit longerr - I should probably review array list methods and strategies to be able to do it more quickly
+    - In addition, I could have optimized some parts, though the solution should still work
+    
+
 
 
 ### MCQ 2015
